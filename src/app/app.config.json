@@ -1,0 +1,14 @@
+{
+	"appname": "Test Application",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "1B9628C9-16B0-4301-B87F-3A8A2F277EF8",
+	"buyerid": "Webinar",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
